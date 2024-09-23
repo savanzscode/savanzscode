@@ -1,7 +1,8 @@
+<p align="left"><img src="https://i.pinimg.com/originals/fc/31/f6/fc31f6e9827260ae401a63ceb3049b93.jpg" alt="savanzscode" width="400" height="300" /> </p>
 <h1 align="center">Hi 👋, I'm savanzscode</h1>
 <h3 align="center">A passionate fullstack developer from indonesia</h3>
 
-<p align="left"><img src="https://i.pinimg.com/originals/fc/31/f6/fc31f6e9827260ae401a63ceb3049b93.jpg" alt="savanzscode" /> </p>
+
 
 - 🔭 I’m currently working on **chlorine**
 
