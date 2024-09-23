@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm savanzscode</h1>
 <h3 align="center">A passionate fullstack developer from indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savanzscode&label=Profile%20views&color=0e75b6&style=flat" alt="savanzscode" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F591871576018085120%2F&psig=AOvVaw0MYeZpqiO1Yq400vKqjmta&ust=1727156004254000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiC5NKr2IgDFQAAAAAdAAAAABAE" alt="savanzscode" /> </p>
 
 - 🔭 I’m currently working on **chlorine**
 
